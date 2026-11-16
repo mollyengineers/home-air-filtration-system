@@ -18,10 +18,10 @@
 
 ## Tech Stack
 
-![cplusplus](https://img.shields.io/badge/cplusplus-E7FDFE?logo=cplusplus&logoColor=fff)
-![arduino](https://img.shields.io/badge/arduino-E7FDFE?logo=arduino&logoColor=fff)
+![c++](https://img.shields.io/badge/C++-E7FDFE?logo=cplusplus&logoColor=fff)
+![arduino](https://img.shields.io/badge/Arduino-E7FDFE?logo=arduino&logoColor=fff)
 ![Adafruit](https://img.shields.io/badge/Adafruit-E7FDFE?logo=Adafruit&logoColor=fff)
-![autodesk](https://img.shields.io/badge/autodesk-E7FDFE?logo=autodesk&logoColor=fff)
+![autodesk](https://img.shields.io/badge/Autodesk-E7FDFE?logo=autodesk&logoColor=fff)
 
 ---
 
